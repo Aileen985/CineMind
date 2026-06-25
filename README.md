@@ -123,11 +123,11 @@
 
 | 登录                                      |                 首页 · 暗影迷踪                 | 首页 · 寻影同调                                          |
 |-----------------------------------------|:-----------------------------------------:|----------------------------------------------------|
-| ![登录](./images/screencapture_login.png) | ![首页](./images/screencapture_home_am.png) | ![首页](./images/screencapture_home_text search.png) |
+| ![登录](./images/screencapture_login.png) | ![首页](./images/screencapture_home_am.png) | ![首页](./images/screencapture_home_text_search.png) |
 
-| 首页 · 寻影同调       |                      电影分类 · 随机推荐                      |                       电影分类 · 口味筛选                       |
-|---|:-----------------------------------------------------:|:-------------------------------------------------------:|
-| ![首页](./images/screencapture_home_picture search.png)  | ![电影分类](./images/screencapture_categories_random.png) | ![电影分类](./images/screencapture_categories_personal.png) |
+| 首页 · 寻影同调                                             |                      电影分类 · 随机推荐                      |                       电影分类 · 口味筛选                       |
+|-------------------------------------------------------|:-----------------------------------------------------:|:-------------------------------------------------------:|
+| ![首页](./images/screencapture_home_picture_search.png) | ![电影分类](./images/screencapture_categories_random.png) | ![电影分类](./images/screencapture_categories_personal.png) |
 
 | 热门电影 |                     个性推荐                     | 评分历史                                        |
 |------|:--------------------------------------------:|---------------------------------------------|
